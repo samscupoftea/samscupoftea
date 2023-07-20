@@ -1,11 +1,16 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/p4NLw3I4U0idi" width="480"/>
+  <img src="![giphy](https://github.com/samscupoftea/samscupoftea/assets/116380619/a7eded8b-e623-43d6-8b16-e5bcda4a4b98)" width="480"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sam-hill-7a019058/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
+
+![giphy](https://github.com/samscupoftea/samscupoftea/assets/116380619/a7eded8b-e623-43d6-8b16-e5bcda4a4b98)
+
+
+
 
 
 
