@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, my name is Sam Hill</h1>
+<h1 align="center">Hello there 👋,  my name is Sam Hill</h1>
 <h3 align="center">A Full-Stack Javascript & Web Developer.</h3>
 
 - 🔭 I’m currently working on [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
