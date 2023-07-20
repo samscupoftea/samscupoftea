@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hello there 👋,  my name is Sam Hill</h1>
 <h3 align="center">A Full-Stack Javascript & Web Developer.</h3>
 
