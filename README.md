@@ -16,9 +16,11 @@
 
 <h1 align="center">Hello there 👋,  my name is Sam Hill</h1>
 <h3 align="center">A Full-Stack Javascript & Web Developer.</h3>
-
-- 🔭 I’m currently working on [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
-
+<p> Former teacher with experience working in countries such as South Korea, Cambodia and Thailand. I began my learning to code in January 2023. Since then I have created mutiple projects for Founders and Coders Bootcamp and participated in regular coding meet-ups. </p>
+- ✍🏻 I’m currently working on my portfolio website. 
+- 🔭 My latest completed project for Founders and Coders [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
+- 🧠 Achieved 6KYU on Codewars ](https://www.codewars.com/users/samscupoftea)
+- 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
 - ⚡ Fun fact **I'm a musician. (I player guitar and sing my own songs).**
 
 <h3 align="left">Connect with me:</h3>
