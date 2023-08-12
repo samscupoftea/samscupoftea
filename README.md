@@ -1,38 +1,38 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/samscupoftea/samscupoftea/assets/116380619/a7eded8b-e623-43d6-8b16-e5bcda4a4b98" width="250"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sam-hill-7a019058/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/sam-hill-7a019058/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
-</div>
 
+# Hello there 👋, my name is Sam Hill
 
+## A Full-Stack Javascript & Web Developer.
 
+Former teacher with experience working in countries such as South Korea, Cambodia, and Thailand. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders Bootcamp and participated in regular coding meet-ups.
 
-
-
-
-
-<h1 align="center">Hello there 👋,  my name is Sam Hill</h1>
-<h3 align="center">A Full-Stack Javascript & Web Developer.</h3>
-<p> Former teacher with experience working in countries such as South Korea, Cambodia and Thailand. I began my learning to code in January 2023. Since then I have created mutiple projects for Founders and Coders Bootcamp and participated in regular coding meet-ups. </p>
-- ✍🏻 I’m currently working on my portfolio website. 
-- 🔭 My latest completed project for Founders and Coders [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
-- 🧠 Achieved 6KYU on Codewars ](https://www.codewars.com/users/samscupoftea)
+- ✍🏻 I’m currently working on my portfolio website.
+- 🔭 My latest completed project for Founders and Coders: [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
+- 🧠 Achieved 6KYU on Codewars: [Codewars Profile](https://www.codewars.com/users/samscupoftea)
 - 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
-- ⚡ Fun fact **I'm a musician. (I player guitar and sing my own songs).**
+- ⚡ Fun fact: I'm a musician. (I play guitar and sing my own songs).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sam-hill-7a019058/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sam-hill-7a019058/" height="30" width="40" /></a>
-</p>
+## Connect with me:
+[LinkedIn](https://www.linkedin.com/in/sam-hill-7a019058/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Languages and Tools:
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Photoshop
+- React
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samscupoftea&show_icons=true&locale=en&layout=compact" alt="samscupoftea" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samscupoftea&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samscupoftea&show_icons=true&locale=en" alt="samscupoftea" /></p>
+![Stats](https://github-readme-stats.vercel.app/api?username=samscupoftea&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samscupoftea&" alt="samscupoftea" /></p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samscupoftea)
+
