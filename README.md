@@ -11,8 +11,8 @@
 
 ## A Full-Stack Javascript & Web Developer.
 
-A former English teacher with experience working in countries such as South Korea, Cambodia, and Thailand. My degree in Philosophy enhanced my passion for thinking, reason and logic. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders and participated in regularly in coding meet-ups, peer-to-peer collaboration and created video tutorials for the commnity discord. 
-
+A former English teacher with experience working in countries such as South Korea, Cambodia, and Thailand. My degree in Philosophy enhanced my passion for thinking, reason and logic. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders and participated regularly in coding meet-ups, peer-to-peer collaboration and created video tutorials for the commnity discord. 
+I am aiming to begin FAC's bootcamp in January 2024.
 - ✍🏻 I’m currently working on my portfolio website.
 - 🔭 My latest completed project for Founders and Coders: [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
 - 🧠 Achieved 6KYU on Codewars with a focus on JavaScript: [Codewars Profile](https://www.codewars.com/users/samscupoftea)
