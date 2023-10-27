@@ -12,9 +12,8 @@
 ## Full-Stack Javascript & Web Developer.
 
 A former English teacher with experience working in countries such as South Korea, Cambodia, and Thailand. My degree in Philosophy enhanced my passion for thinking, reason and logic. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders and participated regularly in coding meet-ups, peer-to-peer collaboration and created video tutorials for the commnity discord. 
-I currently part of group 29B of Founders and Coders for their Software Development bootcamp in London. 
-- ✍🏻 I’m currently working on my portfolio website.
-- 🔭 My latest completed project for Founders and Coders: [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
+- ✍🏻 I’m currently learning web development at Founders and Coders as part of the winter 29B Skills Bootcamp in London.
+- 🔭 My latest completed projects for Founders and Coders: [Porfolio](https://samscupoftea.github.io/Portfolio/) & [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
 - 🧠 Achieved 6KYU on Codewars with a focus on JavaScript: [Codewars Profile](https://www.codewars.com/users/samscupoftea)
 - 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
 - ⚡ Fun fact: I'm a musician. (I play guitar and sing my own songs).
