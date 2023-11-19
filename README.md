@@ -9,7 +9,7 @@
 
 # Hello there 👋, my name is Sam Hill
 
-## Front End Developer
+## Full Stack Developer
 
 A former English teacher with experience working in countries such as South Korea, Cambodia, and Thailand. My degree in Philosophy enhanced my passion for thinking, reason and logic. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders and participated regularly in coding meet-ups, peer-to-peer collaboration and created video tutorials for the commnity discord.
 - ✍🏻 I’m currently learning web development at Founders and Coders as part of the winter 29B Skills Bootcamp in London
