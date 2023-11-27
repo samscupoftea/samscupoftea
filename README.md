@@ -17,6 +17,7 @@ A former English teacher with experience working in countries such as South Kore
 - 🧠 Achieved 6KYU on Codewars with a focus on JavaScript: [Codewars Profile](https://www.codewars.com/users/samscupoftea)
 - 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
 - ⚡ Fun fact: I'm a musician (I play guitar and write my own songs)
+-    I'm currently working on an AI-based chat-bot for discord.
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/sam-hill-7a019058/)
