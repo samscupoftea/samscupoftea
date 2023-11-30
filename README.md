@@ -29,7 +29,7 @@ A former English teacher with experience working in countries such as South Kore
 - Node.js
 - Git
 - React
-- Photoshop
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samscupoftea&show_icons=true&locale=en&layout=compact)
