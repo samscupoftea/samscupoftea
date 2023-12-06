@@ -16,7 +16,7 @@ A former English teacher with experience working in countries such as South Kore
 - 🔭 My latest completed projects for Founders and Coders: [Porfolio](https://samscupoftea.github.io/Portfolio/) & [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
 - 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
 - ⚡ Fun fact: I'm a musician (I play guitar and write my own songs)
-- I'm currently working on an AI-based chat-bot for discord.
+- 🧠 I'm currently working on an AI-based chat-bot for discord.
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/sam-hill-7a019058/)
