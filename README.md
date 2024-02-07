@@ -13,10 +13,10 @@
 
 A former English teacher with experience working in countries such as South Korea, Cambodia, and Thailand. My degree in Philosophy enhanced my passion for thinking, reason and logic. I began my journey into coding in January 2023. Since then, I have created multiple projects for Founders and Coders and participated regularly in coding meet-ups, peer-to-peer collaboration and created video tutorials for the commnity discord.
 - ✍🏻 I’m currently learning web development at Founders and Coders as part of the winter 29B Skills Bootcamp in London.
-- 🔭 My completed projects for Founders and Coders: [Porfolio](https://samscupoftea.github.io/Portfolio/) & [Personal website for FAC Bootcamp](https://github.com/samscupoftea/FAC-Website-Project)
+- 🔭 My completed projects for Founders and Coders: [Porfolio](https://samscupoftea.github.io/Portfolio/), [Full Stack AI Web App Holiday Gen](https://github.com/fac29b/Holiday-Gen-Emiliy-Sam), [Discord AI Chatbot](https://github.com/samscupoftea/Ai-Discord-Chatbot-Sam-Josue)
 - 📚 Completed Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!"
-- ⚡ Fun fact: I'm a musician (I play guitar and write my own songs)
-- 🧠 I'm currently working on an AI-based chat-bot for discord.
+- ⚡ Fun fact: I'm a musician (I play guitar and write my own songs).
+- 🧠 I'm currently building a full stack web app called [Worth Watching](https://github.com/samscupoftea/Worth-Watching).
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/sam-hill-7a019058/)
@@ -28,6 +28,8 @@ A former English teacher with experience working in countries such as South Kore
 - Node.js
 - Git
 - React
+- AWS
+- SQL 
 
 
 
