@@ -27,7 +27,7 @@ A former English teacher with experience working in countries such as South Kore
 - JavaScript
 - Node.js
 - Git
-- React
+- React (Vite)
 - AWS
 - SQL 
 
